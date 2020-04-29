@@ -7,11 +7,7 @@ output:
   pdf_document: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
+## Information about the data, analysis and output
 
 This is a Code Book describing the variables in the raw and tidied dataset (tidyUCIdataset.txt). Scroll down to find details on the cleaned dataset after running the script, run_analysis.R. More information can be found in the compressed dataset. 
 
